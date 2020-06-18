@@ -1,0 +1,35 @@
+<library>
+    <movies>
+        <genre>
+            <adventure>
+                <movie>
+                    <title>Back to the Future</title>
+                    <actor>Michael J Fox</actor>
+                    <year>1985</year>
+                </movie>
+                <movie>
+                    <title>Back to the Future II</title>
+                    <actor>Michael J Fox</actor>
+                    <year>1989</year>
+                </movie>
+                <movie>
+                    <title>Back to the Future III</title>
+                    <actor>Michael J Fox</actor>
+                    <year>1990</year>
+                </movie>
+            </adventure>
+            <comedy>
+                <movie>
+                    <title>Zombieland</title>
+                    <actor>Woody Harrelson</actor>
+                    <year>2009</year>
+                </movie>
+                <movie>
+                    <title>Zombieland: Double Tap</title>
+                    <actor>Woody Harrelson</actor>
+                    <year>2019</year>
+                </movie>
+            </comedy>
+        </genre>
+    </movies>
+</library>
